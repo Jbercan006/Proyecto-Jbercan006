@@ -1,2 +1,4 @@
 # Proyecto-Jbercan006
-Perfil personal
+ ## ¡Hola! Soy Javier Berbel 👋
+ Estudiante del I.E.S José de mora, en computacion y robotica. 
+ 
